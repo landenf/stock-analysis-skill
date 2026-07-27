@@ -420,9 +420,10 @@ Note: these can be the same ticker. If so, explain briefly why it wins both cate
 
 ## Reference Files
 
-- `references/valuation-formulas.md` — DCF, WACC, ROIC, PEG, reverse DCF formulas
-- `references/ratio-benchmarks.md` — Industry median ratios by sector
-- `references/technical-indicators.md` — Detailed indicator definitions and interpretation rules
+- `references/valuation-formulas.md` — DCF, WACC, ROIC, PEG, reverse DCF, FCF yield, worked examples
+- `references/ratio-benchmarks.md` — Industry median ratios by sector (incl. REITs, utilities, staples, telecom)
+- `references/technical-indicators.md` — Detailed indicator definitions, threshold cheat sheet, interpretation rules
+- `references/red-flags.md` — Accounting & earnings-quality warning signs (use in Layer 2 and Layer 8)
 
 ---
 

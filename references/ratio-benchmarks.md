@@ -2,6 +2,13 @@
 
 These are approximate medians — compare a stock against its own sector, not the whole market.
 
+## How to use these benchmarks
+- **Same-sector first.** A 30x P/E is cheap for software and expensive for a bank. Always anchor to the row that matches the company's primary sector.
+- **Own history second.** After sector, compare the multiple to the company's own 3–5 year average. A quality name at the low end of its historical range is often the better signal than the sector median.
+- **Multi-sector companies:** classify by the segment that drives the majority of revenue *and* operating profit. If a company straddles two (e.g. a retailer with a large ads business, or a bank with a big asset-management arm), value the segments separately (sum-of-the-parts) rather than forcing one blended multiple.
+- **Cyclicals invert:** for Energy, Industrials, and other cyclicals, a *low* P/E often means peak earnings (sell signal) and a *high* P/E means trough earnings (potential buy). Use EV/EBITDA and mid-cycle earnings instead of trailing P/E.
+- Ranges below are rough medians, not hard limits — a best-in-class operator can justify a premium.
+
 ## Technology (Software/SaaS)
 | Metric | Typical Range |
 |--------|--------------|
@@ -59,6 +66,45 @@ These are approximate medians — compare a stock against its own sector, not th
 | EV/EBITDA | 4–10x (highly cyclical) |
 | FCF Yield | 6–12% at cycle peaks |
 | Debt/EBITDA | <2x preferred |
+
+## Consumer Staples
+| Metric | Typical Range |
+|--------|--------------|
+| Gross Margin | 30–50% |
+| Operating Margin | 12–22% |
+| P/E | 18–28x |
+| EV/EBITDA | 12–18x |
+| Dividend Yield | 2–4% |
+
+## Communication Services / Telecom
+| Metric | Typical Range |
+|--------|--------------|
+| Gross Margin | 50–70% (media/internet) / 55–65% (carriers) |
+| Operating Margin | 15–30% |
+| P/E | 12–25x (carriers lower, internet higher) |
+| EV/EBITDA | 6–12x |
+| Dividend Yield | 3–6% (carriers) |
+
+## Utilities
+| Metric | Typical Range |
+|--------|--------------|
+| P/E | 15–22x |
+| P/B | 1.5–2.5x |
+| Dividend Yield | 3–5% |
+| Debt/EBITDA | 4–6x (capital intensive; higher leverage is normal) |
+| ROE | 8–12% (rate-regulated) |
+
+## REITs
+Use REIT-specific metrics — GAAP EPS and P/E are misleading because of large non-cash depreciation.
+| Metric | Typical Range |
+|--------|--------------|
+| P/FFO (Funds From Operations) | 12–20x |
+| P/AFFO (Adjusted FFO) | 15–22x |
+| Dividend Yield | 3–6% |
+| Debt/EBITDA | 5–7x |
+| Payout Ratio (of AFFO) | 70–90% |
+
+> REIT note: FFO = Net Income + Depreciation − Gains on Sales. AFFO further subtracts recurring maintenance capex. Judge REIT valuation on P/FFO and P/AFFO, never P/E.
 
 ---
 

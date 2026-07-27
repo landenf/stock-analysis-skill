@@ -1,5 +1,25 @@
 # Technical Indicators Reference
 
+## Cheat Sheet — Thresholds at a Glance
+
+| Indicator | Bearish | Neutral | Bullish |
+|-----------|---------|---------|---------|
+| **Price vs. 200 SMA** | Below, 200 falling | Around it, flat | Above, 200 rising |
+| **Price vs. 50 SMA** | Below | At/near | Above and rising |
+| **50 vs. 200 SMA** | Death Cross (50<200) | — | Golden Cross (50>200) |
+| **RSI (14)** | <40 and falling | 40–50 | 50–70 (healthy) |
+| **RSI extreme** | >80 with bearish divergence | — | <30 in an uptrend (reversal) |
+| **MACD** | MACD < Signal, below zero | Flat, near zero | MACD > Signal, histogram expanding |
+| **Stochastic (14,3,3)** | >80 rolling over | 20–80 | <20 turning up |
+| **Bollinger** | Riding lower band in downtrend | Squeeze (direction TBD) | Breakout above upper band |
+| **Volume** | Up on down days (distribution) | Below average | Rising on up days / breakouts |
+| **Weinstein Stage** | Stage 4 | Stage 1 or 3 | Stage 2 |
+| **RS vs. S&P 500** | RS line rolling over | Sideways | RS at/near new highs |
+
+> Read indicators as a **weight of evidence**, not a single trigger. One bullish reading in a Stage 4 downtrend is noise; five aligned readings in Stage 2 is a setup.
+
+---
+
 ## Moving Averages
 
 ### Simple Moving Average (SMA)
